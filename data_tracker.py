@@ -1,4 +1,3 @@
-s"""
 Internet & Mobile Data Usage Tracker
 =====================================
 Tracks REAL-TIME internet data (upload/download) on your computer using psutil,
